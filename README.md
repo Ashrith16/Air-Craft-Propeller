@@ -11,6 +11,8 @@ Realistic Textures and Materials: Appropriate materials and textures are applied
 Functional Assembly: The assembly allows for movement simulation, such as blade pitch adjustments.
 Technical Drawings: Includes technical drawings for manufacturing and educational purposes.
 Simulation Ready: Ready for static and dynamic analysis to test functionality and durability.
+
+
 Components
 Blades: The aerodynamic surfaces that generate thrust.
 Hub: The central part that holds the blades together.
